@@ -1,6 +1,6 @@
 ### Hallo semuaaa 👋
 
-Perkenalkan nama saya **Adisa Laras PPertiwi**<br>
+Perkenalkan nama saya **Adisa Laras Pertiwi**<br>
 
 Saya mahasiswa teknik informatika dari Politeknik Negeri Cilacap
 
