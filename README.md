@@ -1,7 +1,7 @@
 ### Hallo, 👋
 
-Perkenalkan saya **Disalagi Belajar Ngoding**<br>
-(www.linkedin.com/in/adisa-laras-pertiwi-a63794284) >_<
+**Disalagi Belajar Ngoding**<br>
+
 <p align="left">
 <a href="https://github.com/adisalaras">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adisalaras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
