@@ -1,6 +1,6 @@
-### Hallo semuaaa 👋
+### Hallo, 👋
 
-Perkenalkan saya **Adisa Laras Pertiwi**<br>
+Perkenalkan saya **Disalagi Belajar Ngoding**<br>
 (www.linkedin.com/in/adisa-laras-pertiwi-a63794284) >_<
 <p align="left">
 <a href="https://github.com/adisalaras">
