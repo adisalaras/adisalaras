@@ -32,20 +32,21 @@
 
 ---
 
+
+### 📈 GitHub Streak
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adisalaras&layout=compact&theme=algolia&langs_count=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisalaras&theme=algolia&hide_border=true"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
   <a href="https://github.com/adisalaras">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adisalaras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adisalaras&layout=compact&theme=algolia&langs_count=10"/>
-  </a>
-</p>
-
----
-
-### 📈 GitHub Streak
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adisalaras&theme=algolia&hide_border=true"/>
+    </a>
 </p>
 
 ---
