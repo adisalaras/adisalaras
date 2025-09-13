@@ -13,9 +13,8 @@
 ### 🚀 About Me
 
 - 💻 Passionate about building robust, scalable backend systems
-- 🔁 I love APIs, microservices, and clean architecture
 - 📚 Always learning — currently diving deeper into **Go**, **NestJS**, and **PostgreSQL**
-- 🤝 Let’s collaborate on real-world backend projects!
+- 🤝 Let’s collaborate on real-world projects!
 
 ---
 
