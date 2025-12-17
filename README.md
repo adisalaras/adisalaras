@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Adisa 👋</h1>
 
 <p align="center">
-  <i>"Currently mastering the art of backend development."</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Golang,+Node.js+Enthusiast;Open+Source+Lover;Let’s+Build+Something+Cool!" />
+  <i>"Currently mastering the art of backend development"</i>
 </p>
 
 ---
