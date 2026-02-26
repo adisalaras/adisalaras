@@ -6,13 +6,6 @@
 
 ---
 
-## 👀 Profile Viewers
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adisalaras&label=Profile%20Views&color=0e75b6&style=flat" alt="adisalaras" />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 💻 Passionate about building robust, scalable backend systems
